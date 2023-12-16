@@ -20,5 +20,7 @@ This project is structured in three phases:
 
 We invite collaboration and contributions to this pioneering project, as we endeavor to push the boundaries of drone technology and open-source hardware development.
 
-   
-![logo](https://github.com/JSA02/r2d3-drone/assets/73278373/7ba7a0c8-3902-4457-a31d-046f253dd4e3)
+<p align="center">
+<img src="https://github.com/JSA02/r2d3-drone/assets/73278373/7ba7a0c8-3902-4457-a31d-046f253dd4e3" alt="r2d3-drone-logo" width="600" height="600"/>
+</p>
+
